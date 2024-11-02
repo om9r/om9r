@@ -7,15 +7,14 @@
 
 ---
 
-### 🧠 Tech Enthusiast & Innovator
-
-My projects range from wide variety of fields, starting from Computational Biology, to Artificial Intelligence. I have a strong passion to innovate and provide the best to the humanity. 
-
+### Hiii this is Omer. I'm one of the elements that is part of this biiiggg universe that you see above 😇
+Created my github account to add some of the best things that I've worked on. I have a strong passion to innovate and provide the best to the humanity. My projects here range from wide variety of fields, starting from Computational Biology, to Artificial Intelligence.
+ 
 ### 💼 Projects
 
-- **Insilico Vaccine Design** - Created a Vaccine against Pseudomonas aeruginosa Bacteria.
-- **Hotspot Prediction in IAV** - Hot spot predictions in Influenza Virus using ML models.
-- **Social Media Web Application** -  Developed a comprehensive social media platform using Java Spring Boot
+- **Insilico Vaccine Design** - Made a vaccine design against Pseudomonas aeruginosa which is a bacteria responsible for several chronic infections.
+- **Hotspot Prediction in IAV** - Hot spot predictions in Influenza Virus for drug design.
+- **Social Media Web Application** -  Developed a comprehensive social media platform using Java and spring Boot
 
 ---
 
@@ -31,7 +30,7 @@ My projects range from wide variety of fields, starting from Computational Biolo
 ![R](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=276DC3)
 
 
-- **Technologies:** 
+- **Interests:** 
   - Artificial Intelligence, Machine Learning, Deep Learning
   - Computational Biology, Computational Neuroscience
   - UI/UX Design, Full Stack Development, IoT
