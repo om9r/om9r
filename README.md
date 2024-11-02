@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, I'm Omer</h1>
+<h1 align="center">Hiii! this is Omer 👋 </h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/11/ae/23/11ae2321cb1ba13d2e2c0a37b5ade342.gif" width="500" style="border-radius: 50%; border: 4px solid #8a2be2;">
@@ -7,10 +7,11 @@
 
 ---
 
-### Hiii this is Omer. I'm one of the elements that is part of this biiiggg universe that you see above 😇
-Created my github account to add some of the best things that I've worked on. I have a strong passion to innovate and provide the best to the humanity. My projects here range from wide variety of fields, starting from Computational Biology, to Artificial Intelligence.
+I'm one of the elements that is part of this biiiggg universe that you see above 😇
+
+I have a strong passion to innovate and provide the best to the humanity. I'm a researcher and software developer. My projects here range from wide variety of fields, starting from Computational Biology, to Artificial Intelligence. 
  
-### 💼 Projects
+My Projects: 
 
 - **Insilico Vaccine Design** - Made a vaccine design against Pseudomonas aeruginosa which is a bacteria responsible for several chronic infections.
 - **Hotspot Prediction in IAV** - Hot spot predictions in Influenza Virus for drug design.
