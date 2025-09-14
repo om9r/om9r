@@ -11,12 +11,6 @@ I'm one of the elements that is part of this biiiggg universe that you see above
 
 I have a strong passion to innovate and provide the best to the humanity. I'm a researcher and software developer. My projects here range from wide variety of fields, starting from Computational Biology, to Artificial Intelligence. 
  
-My Projects: 
-
-- **Insilico Vaccine Design** - Made a vaccine design against Pseudomonas aeruginosa which is a bacteria responsible for several chronic infections.
-- **Hotspot Prediction in IAV** - Hot spot predictions in Influenza Virus for drug design.
-- **Social Media Web Application** -  Developed a comprehensive social media platform using Java and spring Boot
-
 ---
 
 ### ⚙️ Skills & Technologies
